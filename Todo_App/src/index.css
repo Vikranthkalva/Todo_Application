@@ -1,0 +1,9 @@
+body{
+    background-color:none;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+  background-attachment: fixed; /* keeps image in place while scrolling */
+  background-position: center;
+    background-image: url(https://d1rluokkqqu56n.cloudfront.net/wpapp/uploads/2020/12/19100145/to-do-list-1731x1080.jpeg);
+}
