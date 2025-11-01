@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import Todo_Add from './components/Todo_Add.jsx';
+import '@fortawesome/fontawesome-free/css/all.min.css';
 
 function App() {
   return (
